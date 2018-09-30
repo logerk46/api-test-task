@@ -43,3 +43,5 @@ POST http://sender.example.com/api/v1/new_order
 To: email из конфига
 Subject: Событие  {$event}
 Body: текст сообщения
+
+![Screenshot](Screenshot_1.png)
