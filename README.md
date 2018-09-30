@@ -44,4 +44,6 @@ To: email из конфига
 Subject: Событие  {$event}
 Body: текст сообщения
 
+
+логи, что все работает
 ![Screenshot](Screenshot_1.png)
